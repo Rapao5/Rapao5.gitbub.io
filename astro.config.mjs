@@ -53,4 +53,5 @@ export default defineConfig({
   security: {
     checkOrigin: false,
   },
+  site: 'https://Rapao5.github.io',
 });
